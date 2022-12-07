@@ -16,7 +16,7 @@ public class Fatorial {
         System.out.println("fatorial   ");
         int fatorial = scan.nextInt();
 
-        int multiplicação = 1;
+        int multiplicação = 1; // tem que ser igual a 1 pq se não tudo x 0 é 0
 
         System.out.println(fatorial + "! = ");
 
